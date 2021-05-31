@@ -20,4 +20,4 @@ I'm Emmanuel from Nigeria, and I do data collection, data cleaning, data visuali
 
  You can check out my linkedin at https://linkedin.com/in/emmanuel-adeniyi68
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emmanueladeniyi
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emmanueladeniyi)
