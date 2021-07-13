@@ -1,4 +1,4 @@
-![Data Scientist and Artificial Intelligent Developer](https://media-exp1.licdn.com/dms/image/C4E03AQGIk6nLaovhBA/profile-displayphoto-shrink_400_400/0/1610729261689?e=1616025600&v=beta&t=2qHjLULKpN1naCbQE_fdFoBZGGEYYPtdJ1I56HiPn0Q)
+![Data Scientist and Artificial Intelligent Developer](https://media-exp3.licdn.com/dms/image/C4E03AQGIk6nLaovhBA/profile-displayphoto-shrink_400_400/0/1610729261689?e=1631750400&v=beta&t=zk2EijIzxzgmG5hz-nzSZmotWU-z8Wp5LzaMh1da7SU)
 
 # Emmanuel Adeniyi
 I'm Emmanuel from Nigeria, and I do data collection, data cleaning, data visualization, exploratory data analysis, model development, refinement and evaluation. I really enjoy learning data science and Machine learning. I also enjoy working on bigdata. I'm also passionate about catalysis/material science
