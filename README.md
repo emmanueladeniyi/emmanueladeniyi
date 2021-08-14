@@ -4,7 +4,7 @@
 I am Emmanuel from Nigeria. I studied Industrial Chemistry at the University of Ilorin, one of the top universities in Nigeria. I emerged as the best graduating student from the Department of Industrial Chemistry.  I enjoy learning data science and Machine learning. I pretty much enjoy working on big data. My goal is to improve results, make the right decisions and save costs.
 I am experienced in machine learning, supervised and unsupervised algorithms, and data visualization techniques to present results. I use SQL, Python, Excel, and Cognos Analytics for my data projects. I am also passionate about catalysis/material science. I have learned how data science and how various machine learning techniques involving supervised, unsupervised, deep learning, and artificial neural networks are helping to build better models, understand materials research, and generate new knowledge about materials science and catalysis. In addition, I have learned how computational materials modeling tools such as Density Functional Theory (DFT) calculations are helping in predicting and understanding material properties through atomistic simulations. I desire to develop new advanced and innovative materials for clean energy and a green economy.
 
-## Skills and Experience
+## Skills
 * Image classification
 * Natural language processing
 * OpenCVs
